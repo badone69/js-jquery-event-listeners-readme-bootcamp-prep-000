@@ -2,7 +2,7 @@
 
 function getIt() {
   $('p').on('click',function(key) {
-    alert("Hey!")
+    alert("Hey!");
   } )
 }
 
@@ -26,7 +26,7 @@ $(document).ready(function(){
 
 // call functions here
 getIt();
-
+frameIt();
 
 
 });

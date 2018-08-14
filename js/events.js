@@ -10,4 +10,17 @@ function getIt() {
   } )
 }
 
+function frameIt() {
+  
+}
+
+function pressIt() {
+  
+  
+}
+
+function submitIt() {
+  
+}
+
 });
